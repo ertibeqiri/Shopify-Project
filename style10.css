@@ -1,0 +1,630 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Arial;
+}
+
+.MenuItems {
+    margin-top: -20px;
+    color: black;
+}
+
+.logo {
+    color: white;
+}
+
+.header {
+    background-color: #003200;
+}
+
+.edition {
+    padding-top: 300px;
+}
+
+navbar {
+    display: inline-block;
+    position: relative;
+    align-items: left;
+    padding: 20px;
+
+
+}
+
+.trust {
+    text-align: left;
+    margin-left: 20px;
+}
+
+.head {
+    margin-top: -270px;
+}
+
+.top {
+    color: white;
+    text-align: left;
+    padding-top: 300px;
+    padding-left: 50px;
+}
+
+.text {
+
+    margin-right: 600px;
+}
+
+nav a {
+
+    padding-bottom: -50px;
+}
+
+nav {
+    padding-top: 0;
+    text-align: left;
+    padding-left: 150px;
+    text-decoration: none;
+
+
+
+
+}
+
+nav ul {
+    padding-top: 0;
+    display: inline-block;
+    text-decoration: none;
+
+
+}
+
+nav ul li {
+
+    display: inline-block;
+    margin-left: 20px;
+
+}
+
+
+.extra {
+    align-items: right;
+    text-align: right;
+    text-decoration: none;
+
+}
+
+.tag1 {
+    margin-top: -20px;
+}
+
+.tag {
+    text-align: right;
+    margin-top: -50px;
+}
+
+.extra .btn {
+
+    display: inline-block;
+    background: green;
+    color: white;
+
+
+    border-radius: 30px;
+    transition: 0.5s;
+}
+
+.btn:hover {
+    background: #563434;
+}
+
+.col-1 .edition {
+    display: inline-block;
+    background: darkgreen;
+    color: black;
+
+    padding: 8px 30px;
+    margin-left: 100px;
+    border-radius: 30px;
+    transition: 0.5s;
+    text-decoration: none;
+}
+
+.col-1:hover {
+    background: #563434;
+}
+
+.titull {
+    color: white;
+    padding-left: 30px;
+}
+
+.exmp {
+    color: green;
+}
+
+.title {
+    padding-left: 50px;
+    color: white;
+}
+
+.explore {
+    padding: 100px 0;
+    background: #003200;
+}
+
+.row {
+    margin-top: 5%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.facilities {
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    padding-top: 100px;
+}
+
+.facilities-col {
+    flex-basis: 31%;
+    border-radius: 10px;
+    margin-bottom: 5%;
+    text-align: left;
+}
+
+.facilities-col img {
+    width: 50%;
+    border-radius: 10px;
+
+}
+
+.facilities-col p {
+    padding: 0;
+}
+
+.facilities-col h3 {
+    margin-top: 16px;
+    margin-bottom: 15px;
+    text-align: left;
+}
+
+p {
+    color: white;
+    padding: 30px;
+}
+
+a {
+
+    text-decoration: none;
+    color: white;
+    padding: 8px 30px;
+    margin: 30px 0;
+
+}
+
+h3 {
+    color: white;
+}
+
+h6 {
+    color: white;
+    padding-top: 30px;
+    font-size: 20px;
+
+}
+
+.fa-brands fa-shopify {
+    height: 100px;
+    font-size: 50px;
+}
+
+.lorem {
+    padding: 0;
+    text-align: center;
+}
+
+.headline {
+    text-align: center;
+    padding-top: 100px;
+    font-size: 30px;
+}
+
+.platform {
+    color: black;
+    text-align: center;
+    font-size: 20px;
+}
+
+.chair {
+    height: 50%;
+    padding-left: 13%;
+    padding-top: 35px;
+}
+
+.chair1 {
+    height: 50%;
+    padding-left: 25%;
+}
+
+.text {
+    color: black;
+    text-align: right;
+    padding-top: -150px;
+    margin-top: -15%;
+    margin-right: 150px;
+
+}
+
+.ver {
+    margin-right: -50px;
+}
+
+.paragraph {
+    color: black;
+    text-align: right;
+    margin-right: 10px;
+}
+
+.sell {
+    color: green;
+    margin-right: 350px;
+}
+
+.text h2 {
+    margin-right: 380px;
+}
+
+.business {
+    margin-right: 400px;
+    margin-top: 100px;
+    height: 200%;
+}
+
+.text2 {
+    padding-top: 110px;
+    margin-left: 380px;
+    text-align: justify;
+}
+
+.paragraph1 {
+    color: black;
+    margin-left: -150px;
+}
+
+.mark {
+    margin-left: -120px;
+}
+
+.thing {
+    margin-right: -20px;
+}
+
+.market {
+    color: green;
+    margin-left: -150px;
+}
+
+.owners {
+
+    padding-left: 25px;
+    font-size: 30px;
+}
+
+.everywhere {
+    color: black;
+    padding-left: 30px;
+    padding-top: 250px;
+}
+
+.countries {
+    color: black;
+    font-size: 30px;
+}
+
+.learn {
+    color: green;
+}
+
+.places {
+
+    width: 20%;
+    margin-top: -200px;
+
+
+}
+
+.brands {
+    margin: 100px auto;
+
+}
+
+.col-5 {
+    width: 160px;
+}
+
+.col-5 img {
+    display: inline;
+    padding-top: -20px;
+    width: 100%;
+    cursor: pointer;
+    filter: grayscale(100%);
+}
+
+.col-5 img:hover {
+    filter: grayscale(0);
+}
+
+.logo6 {
+    margin-top: -45px;
+    padding-bottom: 150px;
+}
+
+.logo5 {
+    margin-top: -20px;
+    margin-bottom: 50px;
+}
+
+.advert {
+    padding-left: 100px;
+
+}
+
+.adtext {
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    border-style: none;
+    background-color: #002800;
+    margin-right: 100px;
+    width: 50%;
+    height: 61%;
+    margin-left: 750px;
+    margin-top: -530px;
+    padding-top: 100px;
+
+
+
+}
+
+.sponsor {
+    padding-top: 50px;
+    padding-bottom: 30px;
+
+}
+
+.play {
+    padding-top: 20px;
+    padding: 15px;
+    color: white;
+    border-style: solid;
+    border-color: white;
+    cursor: pointer;
+    background-color: #002800;
+    margin-top: 30px;
+}
+
+.help {
+    margin-top: -150px;
+    background-color: #fbf7ed;
+
+}
+
+.permbajtje {
+    font-size: 20px;
+    padding-left: 100px;
+    padding-top: 150px;
+
+}
+
+.permbajtje img {
+    margin-left: 53%;
+    margin-top: -220px;
+
+
+
+}
+
+.suport {
+    margin-top: -540px;
+    margin-left: 380px;
+}
+
+.suport1 {
+    margin-left: -100px;
+    margin-top: -180px;
+}
+
+.suport2 {
+    margin-top: 150px;
+    margin-left: -100px;
+}
+
+
+.shop {
+    color: black;
+    padding-left: 30px;
+}
+
+.call {
+    color: gray;
+}
+
+.green {
+    color: green;
+}
+
+.trial {
+    text-align: center;
+    padding-top: 200px;
+}
+
+.free {
+    color: gray;
+}
+
+.border {
+    padding-top: 20px;
+    padding: 15px;
+    color: white;
+    border-style: solid;
+    border-color: white;
+    cursor: pointer;
+    background-color: #005A00;
+
+
+}
+
+.gotopbtn {
+    color: green;
+    position: right;
+    width: 50px;
+    height: 50px;
+    background: #27ae60;
+    bottom: 40px;
+    right: 50px;
+}
+
+.top1 a {
+    color: #27ae60;
+    padding-left: 80%;
+}
+
+.footer {
+    background-color: #003200;
+    margin-top: 100px;
+    height: 1000px;
+}
+
+.links {
+    padding: 50px;
+}
+
+.onlinestore h2 {
+    color: white;
+    font-size: 15px;
+    padding-top: 20px;
+    padding-left: 50px;
+    padding-bottom: 10px;
+
+}
+
+.onlinestore p {
+    font-size: 14px;
+    padding-left: 50px;
+    padding-top: 5px;
+    text-align: justify;
+    padding-bottom: 0;
+}
+
+
+
+
+.website p {
+
+    margin-left: 200px;
+    font-size: 14px;
+    padding-left: 50px;
+    padding-top: 10px;
+    text-align: justify;
+    padding-bottom: 0;
+
+}
+
+.website {
+    margin-top: -120px;
+
+}
+
+.commerce p {
+
+    font-size: 14px;
+    padding-left: 50px;
+    padding-top: 5px;
+    text-align: justify;
+    padding-bottom: 0;
+
+}
+
+.commerce {
+    margin-left: 450px;
+    margin-top: -125px;
+}
+
+.point h2 {
+    color: white;
+    font-size: 15px;
+    padding-top: 20px;
+    padding-left: 50px;
+    padding-bottom: 10px;
+
+}
+
+.point p {
+    font-size: 14px;
+    padding-left: 50px;
+    padding-top: 5px;
+    text-align: justify;
+    padding-bottom: 0;
+}
+
+.point {
+    margin-left: 650px;
+    margin-top: -150px;
+}
+
+.helpcenter h2 {
+    color: white;
+    font-size: 15px;
+    padding-top: 20px;
+    padding-left: 50px;
+    padding-bottom: 10px;
+
+}
+
+.helpcenter p {
+    font-size: 14px;
+    padding-left: 50px;
+    padding-top: 5px;
+    text-align: justify;
+    padding-bottom: 0;
+}
+
+.helpcenter {
+    margin-left: 900px;
+    margin-top: -110px;
+}
+
+.main h2 {
+    color: white;
+    font-size: 15px;
+    padding-top: 20px;
+    padding-left: 50px;
+    padding-bottom: 10px;
+
+}
+
+.main p {
+    font-size: 14px;
+    padding-left: 50px;
+    padding-top: 5px;
+    text-align: justify;
+    padding-bottom: 0;
+}
+
+.main {
+    margin-left: 1200px;
+    margin-top: -285px;
+}
+
+.social {
+    color: white;
+    height: 100px;
+    margin-top: 200px;
+    margin-left: 100px;
+    justify-content: space-between;
+}
+
+.privacy {
+    color: white;
+    text-align: right;
+    margin-right: 200px;
+    margin-top: -20px;
+
+}
